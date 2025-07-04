@@ -7,6 +7,7 @@ project files
 
 [scad](Chinese_Lantern.scad)
 
+[animarion scr](animation.zip)
 
 [stl](Chinese_Lantern.stl)
 
