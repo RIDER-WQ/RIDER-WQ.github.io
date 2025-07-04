@@ -2,7 +2,7 @@ index.html: DOCTYPE html> <html> <head> <title>Welcometitle> head> <body> <h1>He
 
 
 
-<video width="320" height="240" poster="/asset/latern.jpg" autoplay>
+<video width="320" height="240" poster="/asset/lantern.jpg" autoplay>
 <source  type="video/mp4" src="model.mp4">
 <source type="video/ogg"  src="model.ogg" >
 Your browser does not support the video tag
