@@ -5,10 +5,10 @@ project files
 
 [Final Project PPT.pdf]
 
-[Chinese_Lantern.scad]
+[scad](Chinese_Lantern.scad)
 
 
-[Chinese_Lantern.stl]
+[stl](Chinese_Lantern.stl)
 
 <video width="320" height="240" autoplay>
   <source src="model.mp4" type="video/mp4">
