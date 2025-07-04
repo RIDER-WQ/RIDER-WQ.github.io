@@ -3,7 +3,7 @@ project files
 
 [Animation](https://jack10079.github.io)
 
-[Final Project PPT.pdf]
+[PDF](Final Project PPT.pdf)
 
 [scad](Chinese_Lantern.scad)
 
