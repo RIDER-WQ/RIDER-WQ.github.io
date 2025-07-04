@@ -3,7 +3,7 @@ project files
 
 https://jack10079.github.io
 
-[I'm an inline-style link]([Final Project PPT.pdf](https://github.com/RIDER-WQ/RIDER-WQ.github.io/blob/main/Final%20Project%20PPT.pdf))
+[PPT]([Final Project PPT.pdf](https://github.com/RIDER-WQ/RIDER-WQ.github.io/blob/main/Final%20Project%20PPT.pdf))
 
 
 <video width="320" height="240" autoplay>
