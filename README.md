@@ -3,6 +3,8 @@ project files
 
 https://jack10079.github.io
 
+<a href="Final ProjectPPT.pdf" class="image fit"></a>
+
 
 <video width="320" height="240" autoplay>
   <source src="model.mp4" type="video/mp4">
