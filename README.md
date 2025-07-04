@@ -3,7 +3,7 @@ project files
 
 https://jack10079.github.io
 
-<a href="Final ProjectPPT.pdf" class="image fit"></a>
+<a href="Final ProjectPPT.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
 
 <video width="320" height="240" autoplay>
