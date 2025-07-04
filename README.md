@@ -3,7 +3,7 @@ project files
 
 [Animation](https://jack10079.github.io)
 
-[PPT](https://github.com/RIDER-WQ/RIDER-WQ.github.io/blob/main/assets/files/Final%20Project%20PPT.pdf)
+[Final Project PPT.pdf]
 
 [scad](Chinese_Lantern.scad)
 
